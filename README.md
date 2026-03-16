@@ -15,11 +15,10 @@
    ```bash
    git clone https://github.com
    
-2.Install dependencies:
-bash
-pip install qrcode[pil]
-Use code with caution.
+2. Install dependencies:
+    ```bash
+   `pip install qrcode[pil]`
 
-3.Run the script:
-bash
-python qr_code_generation.py
+3. Run the script:
+    ```bash
+   `python qr_code_generation.py`
